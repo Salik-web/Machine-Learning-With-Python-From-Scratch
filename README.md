@@ -8,9 +8,10 @@ Each folder contains a Jupyter notebook, dataset, and explanation of the concept
 
 ## Topics Covered
 
-| Topic | Folder |
-|-------|--------|
-| Linear Regression (Single Variable) | `linear regression single variable` |
+| # | Topic | Folder |
+|---|-------|--------|
+| 1 | Linear Regression (Single Variable) | `linear regression single variable` |
+| 2 | Linear Regression (Multiple Variables) + Saving Model with Pickle | `linear regression multi variable` |
 
 *More topics coming soon...*
 
