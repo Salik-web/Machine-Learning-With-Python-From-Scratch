@@ -12,6 +12,7 @@ Each folder contains a Jupyter notebook, dataset, and explanation of the concept
 |---|-------|--------|
 | 1 | Linear Regression (Single Variable) | `linear regression single variable` |
 | 2 | Linear Regression (Multiple Variables) + Saving Model with Pickle | `linear regression multi variable` |
+| 3 | One Hot Encoding (Pandas get_dummies + Sklearn OneHotEncoder) | `one hot encoding` |
 
 *More topics coming soon...*
 
