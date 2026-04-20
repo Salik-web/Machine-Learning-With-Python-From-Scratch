@@ -15,6 +15,7 @@ Each folder contains a Jupyter notebook, dataset, and explanation of the concept
 | 3 | One Hot Encoding (Pandas get_dummies + Sklearn OneHotEncoder) | `one hot encoding` |
 | 4 | Logistic Regression — Employee Retention Prediction | `logistic regression` |
 | 5 | Logistic Regression Multiclass — Iris Flower Classification + Confusion Matrix | `logistic regression multiclass` |
+| 6 | Decision Tree — Titanic Survival Prediction | `decision tree` |
 
 *More topics coming soon...*
 
