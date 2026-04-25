@@ -17,8 +17,16 @@ Each folder contains a Jupyter notebook, dataset, and explanation of the concept
 | 5 | Logistic Regression Multiclass — Iris Flower Classification + Confusion Matrix | `5. logistic regression multiclass` |
 | 6 | Decision Tree — Titanic Survival Prediction | `6. decision tree` |
 | 7 | Support Vector Machine (SVM) — Handwritten Digit Recognition | `7. support vector machine (svm)` |
-
-*More topics coming soon...*
+| 8 | K-Fold Cross Validation — Iris Flower Classification | `8. k-fold cross validation` |
+| 9 | Naive Bayes — Email Spam Detection | `9. naive bayes email spam` |
+| 10 | Naive Bayes — Wine Classification | `10. naive bayes wine classification` |
+| 11 | K Nearest Neighbors (KNN) — Handwritten Digit Recognition | `11. k nearest neighbors` |
+| 12 | Random Forest — Iris Flower Classification | `12. random forest` |
+| 13 | K-Means Clustering — Iris Flower Grouping | `13. k-means clustering` |
+| 14 | Bagging — Heart Disease Prediction | `14. bagging` |
+| 15 | Grid Search CV — Hyperparameter Tuning | `15. grid search cv` |
+| 16 | L1 and L2 Regularization — Melbourne House Price Prediction | `16. l1 l2 regularization` |
+| 17 | PCA — Principal Component Analysis — Heart Disease | `17. pca` |
 
 ---
 
