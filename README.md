@@ -10,15 +10,15 @@ Each folder contains a Jupyter notebook, dataset, and explanation of the concept
 
 | # | Topic | Folder |
 |---|-------|--------|
-| 1 | Linear Regression (Single Variable) | `1. linear regression single variable` |
-| 2 | Linear Regression (Multiple Variables) + Saving Model with Pickle | `2. linear regression multi variable` |
-| 3 | One Hot Encoding (Pandas get_dummies + Sklearn OneHotEncoder) | `3. one hot encoding` |
-| 4 | Logistic Regression — Employee Retention Prediction | `4. logistic regression` |
-| 5 | Logistic Regression Multiclass — Iris Flower Classification + Confusion Matrix | `5. logistic regression multiclass` |
-| 6 | Decision Tree — Titanic Survival Prediction | `6. decision tree` |
-| 7 | Support Vector Machine (SVM) — Handwritten Digit Recognition | `7. support vector machine (svm)` |
-| 8 | K-Fold Cross Validation — Iris Flower Classification | `8. k-fold cross validation` |
-| 9 | Naive Bayes — Email Spam Detection | `9. naive bayes email spam` |
+| 1 | Linear Regression (Single Variable) | `01. linear regression single variable` |
+| 2 | Linear Regression (Multiple Variables) + Saving Model with Pickle | `02. linear regression multi variable` |
+| 3 | One Hot Encoding (Pandas get_dummies + Sklearn OneHotEncoder) | `03. one hot encoding` |
+| 4 | Logistic Regression — Employee Retention Prediction | `04. logistic regression` |
+| 5 | Logistic Regression Multiclass — Iris Flower Classification + Confusion Matrix | `05. logistic regression multiclass` |
+| 6 | Decision Tree — Titanic Survival Prediction | `06. decision tree` |
+| 7 | Support Vector Machine (SVM) — Handwritten Digit Recognition | `07. support vector machine (svm)` |
+| 8 | K-Fold Cross Validation — Iris Flower Classification | `08. k-fold cross validation` |
+| 9 | Naive Bayes — Email Spam Detection | `09. naive bayes email spam` |
 | 10 | Naive Bayes — Wine Classification | `10. naive bayes wine classification` |
 | 11 | K Nearest Neighbors (KNN) — Handwritten Digit Recognition | `11. k nearest neighbors` |
 | 12 | Random Forest — Iris Flower Classification | `12. random forest` |
